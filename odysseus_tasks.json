@@ -1,0 +1,14 @@
+[
+  {"task": "Escape the Cicones", "description": "Fend off attacks after leaving Troy.", "difficulty": 2},
+  {"task": "Survive the Lotus-Eaters", "description": "Avoid forgetting home while crew eat the lotus.", "difficulty": 1},
+  {"task": "Escape the Cyclops Polyphemus", "description": "Blind the Cyclops and sneak out.", "difficulty": 5},
+  {"task": "Navigate past Scylla and Charybdis", "description": "Choose the lesser evil between monster and whirlpool.", "difficulty": 4},
+  {"task": "Resist the Sirens", "description": "Avoid being lured to death by their song.", "difficulty": 3},
+  {"task": "Visit Circe", "description": "Avoid being turned into pigs and gain guidance.", "difficulty": 3},
+  {"task": "Journey to the Underworld", "description": "Speak with Tiresias and spirits for guidance.", "difficulty": 4},
+  {"task": "Survive the Cattle of Helios", "description": "Avoid eating sacred cattle.", "difficulty": 3},
+  {"task": "Escape Calypso’s island", "description": "Build raft and set sail.", "difficulty": 4},
+  {"task": "Return to Ithaca", "description": "Disguise and plan to reclaim home.", "difficulty": 5},
+  {"task": "Defeat the Suitors", "description": "Reclaim palace and throne.", "difficulty": 5},
+  {"task": "Reunite with Penelope", "description": "Prove identity and restore household.", "difficulty": 2}
+]
