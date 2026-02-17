@@ -3,3 +3,5 @@ langchain-community>=0.0.20
 langchain-ollama>=0.1.0
 pypdf>=3.17.0
 transformers>=5.0.0
+requests>=2.31.0
+jira>=3.10.0
